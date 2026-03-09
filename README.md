@@ -8,4 +8,4 @@
 ### Sobre Mim
 - Academico na instituição **[[Unifebe](https://www.unifebe.edu.br/site/)]**
 -  Aludo de **Sistemas de Informação**
-- 📫 Como me encontrar: [mateus.klabunde@unifebe.edu.br]
+- 📫 Como me encontrar: [[mateus.klabunde@unifebe.edu.br](https://mateusklabunde.github.io/index.html/)]
